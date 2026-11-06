@@ -1,0 +1,45 @@
+h1{
+    color: aqua;
+    letter-spacing: 10px;
+    word-spacing: 1000px;
+}
+p{
+    text-indent: 50px;
+    text-align: center;
+    writing-mode: vertical-lr;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    line-height: 3;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+h2{
+    text-decoration: overline;
+}
+h3{
+    text-decoration: line-through;
+}
+h4{
+    text-decoration: underline;
+}
+
+
+.myElement{
+    color: blue;
+}
+#normalText{
+    font-style: normal;
+    font-weight: normal;
+}
+#italictext{
+    font-size: italic;
+    font-weight: bold;
+}
+#obliqueText{
+    font-size: oblique;
+    font-weight: 900;
+}
